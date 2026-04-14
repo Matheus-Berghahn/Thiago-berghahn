@@ -18,7 +18,7 @@
     "framer-motion": "^12.4.7",
     "gsap": "^3.12.7",
     "lucide-react": "^0.476.0",
-    "next": "^15.1.7",
+    "next": "15.1.11",
     "pigeon-maps": "^0.22.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
