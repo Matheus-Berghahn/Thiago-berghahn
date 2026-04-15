@@ -33,24 +33,24 @@ const MarqueeSection = () => {
           }}
         >
           TREINE COM O MELHOR{" "}
-          <span className="mx-2 text-black">•</span> RESULTADOS GARANTIDOS{" "}
-          <span className="mx-2 text-black">•</span> ENTRE EM CONTATO HOJE MESMO{" "}
-          <span className="mx-2 text-black">•</span> MELHORE SEUS RESULTADOS AGORA{" "}
-          <span className="mx-2 text-black">•</span> CONQUISTE SEUS OBJETIVOS{" "}
-          <span className="mx-2 text-black">•</span> TREINE COM O MELHOR{" "}
-          <span className="mx-2 text-black">•</span> RESULTADOS GARANTIDOS{" "}
-          <span className="mx-2 text-black">•</span> ENTRE EM CONTATO HOJE MESMO{" "}
-          <span className="mx-2 text-black">•</span> MELHORE SEUS RESULTADOS AGORA{" "}
-          <span className="mx-2 text-black">•</span> CONQUISTE SEUS OBJETIVOS{" "}
-          <span className="mx-2 text-black">•</span> RESULTADOS GARANTIDOS{" "}
-          <span className="mx-2 text-black">•</span> ENTRE EM CONTATO HOJE MESMO{" "}
-          <span className="mx-2 text-black">•</span> MELHORE SEUS RESULTADOS AGORA{" "}
-          <span className="mx-2 text-black">•</span> CONQUISTE SEUS OBJETIVOS{" "}
-          <span className="mx-2 text-black">•</span> TREINE COM O MELHOR{" "}
-          <span className="mx-2 text-black">•</span> RESULTADOS GARANTIDOS{" "}
-          <span className="mx-2 text-black">•</span> ENTRE EM CONTATO HOJE MESMO{" "}
-          <span className="mx-2 text-black">•</span> MELHORE SEUS RESULTADOS AGORA{" "}
-          <span className="mx-2 text-black">•</span> CONQUISTE SEUS OBJETIVOS{" "}
+          <span className="mx-2 text-black">•</span> PERFORMANCE{" "}
+        <span className="mx-2 text-black">•</span> SAÚDE{" "}
+        <span className="mx-2 text-black">•</span> REABILITAÇÃO DE LESÕES{" "}
+        <span className="mx-2 text-black">•</span> PERFORMANCE{" "}
+        <span className="mx-2 text-black">•</span> SAÚDE{" "}
+        <span className="mx-2 text-black">•</span> REABILITAÇÃO DE LESÕES{" "}
+        <span className="mx-2 text-black">•</span> PERFORMANCE{" "}
+        <span className="mx-2 text-black">•</span> SAÚDE{" "}
+        <span className="mx-2 text-black">•</span> REABILITAÇÃO DE LESÕES{" "}
+        <span className="mx-2 text-black">•</span> PERFORMANCE{" "}
+        <span className="mx-2 text-black">•</span> SAÚDE{" "}
+        <span className="mx-2 text-black">•</span> REABILITAÇÃO DE LESÕES{" "}
+        <span className="mx-2 text-black">•</span> PERFORMANCE{" "}
+        <span className="mx-2 text-black">•</span> SAÚDE{" "}
+        <span className="mx-2 text-black">•</span> REABILITAÇÃO DE LESÕES{" "}
+        <span className="mx-2 text-black">•</span> PERFORMANCE{" "}
+        <span className="mx-2 text-black">•</span> SAÚDE{" "}
+        <span className="mx-2 text-black">•</span> REABILITAÇÃO DE LESÕES{" "}
         </motion.div>
       </div>
     </div>

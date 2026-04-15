@@ -60,7 +60,7 @@ const DiferencialSection = () => {
             <Image src={card_03} alt="Personal Trainer" width={1000} height={600} className="absolute left-0 top-0 anim_card_03" />
           </motion.div>
 
-          <motion.div
+          {/* <motion.div
             className="absolute left-0 top-0 w-full h-full origin_card_04"  
             initial={{ opacity: 0, scale: 0 }}
             whileInView={{ opacity: 1, scale: 1 }}
@@ -74,7 +74,7 @@ const DiferencialSection = () => {
             viewport={{ once: true }}
           >
             <Image src={card_04} alt="Personal Trainer" width={1000} height={600} className="absolute left-0 top-0 anim_card_04"  />
-          </motion.div>
+          </motion.div> */}
 
         </div>
 
@@ -82,14 +82,14 @@ const DiferencialSection = () => {
         <div className="w-full xl:w-1/2 pl-0 xl:pl-12 flex justify-center items-start flex-col">
           {/* Título */}
           <motion.h2
-            className="w-full text-3xl text-center xl:text-left font-bold mb-10 text-white pt-20 xl:pt-0"
-            initial={{ opacity: 0, y: -50 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, ease: "easeOut" }}
-            viewport={{ once: true }}
-          >
-            O que me torna diferente
-          </motion.h2>
+  className="w-full text-3xl text-center xl:text-left font-bold mb-10 text-white pt-20 xl:pt-0"
+  initial={{ opacity: 0, y: -50 }}
+  whileInView={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.6, ease: "easeOut" }}
+  viewport={{ once: true }}
+>
+  TREINO INTELIGENTE → RESULTADO COM CIÊNCIA
+</motion.h2>
 
           {/* Texto */}
           <motion.p
@@ -99,12 +99,14 @@ const DiferencialSection = () => {
             transition={{ duration: 0.6, ease: "easeOut", delay: 0.3 }}
             viewport={{ once: true }}
           >
-            Eu sou especializado em fornecer resultados comprovados, com um foco contínuo em qualidade e satisfação. O meu objetivo é alcançar sempre o melhor para você, através de uma abordagem totalmente personalizada e dedicada ao seu sucesso.
+            Sem fadiga desnecessária, sem longas horas na academia, conheça o treino inteligente que vai extrair o máximo do seu potencial sem desperdiçar seu tempo.
           </motion.p>
 
           {/* Tópicos */}
           <ul className="list-none space-y-4 mt-4">
-            {["Atendimento personalizado, voltado para suas necessidades únicas", "Resultados mensuráveis com foco em alta performance", "Compromisso em alcançar seus objetivos de forma eficaz e eficiente"].map((item, index) => (
+            {["Confie no trabalho de um PROFISSIONAL da Educação Física.",
+  "Metodologia sistemática que permite visualizar sua evolução de forma concreta.",
+  "Todos os processos do treinamento embasados em CIÊNCIA!"].map((item, index) => (
               <motion.li
                 key={index}
                 className="text-lg text-white"

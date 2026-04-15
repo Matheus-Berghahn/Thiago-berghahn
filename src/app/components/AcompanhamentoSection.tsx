@@ -44,7 +44,7 @@ const AcompanhamentoSection = () => {
           </motion.p>
 
           <motion.button
-            className="w-full md:w-2/6 xl:w-1/4 px-6 py-2 rounded-lg border-2 text-center md:text-left  border-cinza font-medium mt-4 transition-colors duration-300 bg-cinza hover:bg-white text-red-700 hover:text-cinza"
+            className="w-full md:w-2/6 xl:w-1/4 px-6 py-2  border-2 text-center md:text-left  border-cinza font-medium mt-4 transition-colors duration-300 bg-white text-cinza hover:bg-cinza hover:text-white"
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             transition={{ delay: 1, ease: "easeOut" }}
